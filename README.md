@@ -1,2 +1,2 @@
 # cs61a
-labs, homework and projects
+lab, homework and project
